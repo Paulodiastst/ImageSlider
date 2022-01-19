@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Firebase</h1>
+<h1 align="center">Image Slider</h1>
 
 
 ## Descrição do Projeto
